@@ -1,0 +1,9 @@
+.TodoApp {
+  text-align: center;
+  background-color: rgb(20, 183, 164);
+  height: fit-content
+}
+.TodoApp h1{
+  font-size: 3rem;
+  text-decoration: underline;
+}
